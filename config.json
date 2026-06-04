@@ -1,0 +1,22 @@
+{
+  "data_paths": {
+    "skab": "data/skab",
+    "batadal": "data/batadal"
+  },
+  "training_params": {
+    "max_epochs": 50,
+    "batch_size": 32,
+    "early_stopping_patience": 5,
+    "random_seeds": [42, 123, 2026, 7, 999]
+  },
+  "automata_params": {
+    "fixed_comparison": {
+      "window_size": 4,
+      "alphabet_size": 3
+    },
+    "variations": {
+      "window_sizes": [3, 4, 5, 6],
+      "alphabet_sizes": [3, 4, 5, 6]
+    }
+  }
+}

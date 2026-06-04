@@ -1,0 +1,9 @@
+{
+    "time_step": 5,
+    "state": "abcc",
+    "pattern": "abcc",
+    "status": "seen",
+    "mapped_to": "abcc",
+    "probability": 0.6435,
+    "decision": "normal"
+}
