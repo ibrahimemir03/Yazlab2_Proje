@@ -67,3 +67,8 @@ Test verisindeki bir an için (time_step: 5) sistemin matematiksel gerekçesi ve
     "probability": 0.6435,
     "decision": "normal"
 }
+## 6. Automata Model Görselleri
+Aşağıda, Otomata modelinin nasıl çalıştığını şeffaf bir şekilde gösteren durum geçiş diyagramı ve geçiş olasılıkları ısı haritası yer almaktadır.
+
+![Transition Heatmap](models/transition_heatmap.png)
+![State Diagram](models/state_diagram.png)
